@@ -1,5 +1,5 @@
 Country,Value
-United States of America,6094.814
+USA,6094.814
 China,3042.838
 United Kingdom,2110.649
 Germany,1568.42
@@ -18,7 +18,7 @@ Canada,363.726
 Sri Lanka,349.51
 Poland,331.272
 Australia,301.158
-Türkiye,294.443
+Turkiye,294.443
 Thailand,252.054
 Kenya,250.264
 Portugal,244.418
@@ -36,7 +36,7 @@ Philippines,142.765
 Kuwait,122.463
 Mozambique,117.204
 Chile,115.361
-"Tanzania, United Republic of",111.517
+Tanzania,111.517
 Egypt,105.939
 Mexico,99.83
 Brazil,99.504
@@ -61,7 +61,7 @@ Romania,50.967
 Uzbekistan,48.937
 Argentina,44.79
 Iraq,44.42
-Côte d'Ivoire,41.383
+Cote d'Ivoire,41.383
 Bulgaria,40.191
 Nigeria,39.646
 Jordan,34.54
@@ -80,7 +80,7 @@ Senegal,23.226
 Benin,21.9
 Papua New Guinea,21.119
 Mauritius,19.476
-"Congo, Democratic Republic of the",18.535
+Congo,18.535
 Algeria,17.927
 Panama,16.78
 Croatia,16.424
