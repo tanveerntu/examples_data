@@ -1,199 +1,199 @@
 Country,Value
-United States of America,6094814
-China,3042838
-United Kingdom,2110649
-Germany,1568420
-Netherlands,1401175
-United Arab Emirates,1170170
-Spain,1025085
-Italy,893795
-Afghanistan,835873
-Bangladesh,815613
-Belgium,715779
-France,454735
-Qatar,406216
-Saudi Arabia,403997
-Malaysia,383975
-Canada,363726
-Sri Lanka,349510
-Poland,331272
-Australia,301158
-Türkiye,294443
-Thailand,252054
-Kenya,250264
-Portugal,244418
-Denmark,234687
-South Africa,223079
-Japan,202910
-Viet Nam,194755
-Kazakhstan,193666
-"Korea, Republic of",191679
-Oman,176511
-Russian Federation,175721
-Indonesia,170726
-Sweden,166429
-Philippines,142765
-Kuwait,122463
-Mozambique,117204
-Chile,115361
-"Tanzania, United Republic of",111517
-Egypt,105939
-Mexico,99830
-Brazil,99504
-Greece,90212
-Slovenia,88800
-Madagascar,88673
-Ireland,86860
-Yemen,82939
-Singapore,75081
-"Hong Kong, China",72062
-Somalia,70095
-Asia not elsewhere specified,66094
-Bahrain,62079
-Ukraine,61882
-Norway,60686
-Djibouti,55537
-Czech Republic,55342
-Ghana,54609
-New Zealand,54004
-Colombia,52420
-Romania,50967
-Uzbekistan,48937
-Argentina,44790
-Iraq,44420
-Côte d'Ivoire,41383
-Bulgaria,40191
-Nigeria,39646
-Jordan,34540
-Lithuania,33086
-Finland,32454
-Peru,31976
-Morocco,29076
-Cambodia,26590
-Hungary,24835
-Sudan,24714
-Tunisia,24583
-Guinea,24071
-Slovakia,23644
-Angola,23433
-Senegal,23226
-Benin,21900
-Papua New Guinea,21119
-Mauritius,19476
-"Congo, Democratic Republic of the",18535
-Algeria,17927
-Panama,16780
-Croatia,16424
-Latvia,16399
-Switzerland,15759
-Honduras,15233
-Austria,14788
-Myanmar,12730
-Zimbabwe,12483
-Estonia,12248
-"Libya, State of",11711
-Cameroon,11620
-Lebanon,11580
-Guatemala,10641
-Dominican Republic,9842
-Togo,8787
-Paraguay,8226
-Mauritania,8048
-Ecuador,7502
-Gambia,7419
-Guinea-Bissau,7319
-Malawi,7051
-Georgia,6754
-Comoros,6603
-Syrian Arab Republic,6321
-Uruguay,6223
-Maldives,6133
-Cyprus,6129
-Botswana,5890
-Azerbaijan,5775
-Haiti,5646
-Albania,5241
-El Salvador,4884
-Montenegro,4743
-Trinidad and Tobago,4701
-Nepal,4658
-Costa Rica,4303
-Malta,3943
-Nicaragua,3745
-Liberia,3632
-Turkmenistan,3002
-"Venezuela, Bolivarian Republic of",2929
-Kyrgyzstan,2822
-Sierra Leone,2703
-Uganda,2539
-Tajikistan,2491
-Fiji,2336
-Timor-Leste,2179
-Congo,2039
-Belarus,1854
-Guyana,1649
-Jamaica,1589
-Seychelles,1513
-Serbia,1511
-Brunei Darussalam,1143
-Zambia,1014
-Ethiopia,742
-Suriname,631
-Barbados,622
-Luxembourg,614
-Gabon,598
-Mongolia,544
-Rwanda,506
-Lao People's Democratic Republic,501
-Eswatini,486
-Iceland,378
-"Bolivia, Plurinational State of",377
-Mali,358
-New Caledonia,318
-Burkina Faso,304
-Bahamas,280
-Burundi,274
-Equatorial Guinea,258
-India,241
-Samoa,240
-French Polynesia,228
-"Moldova, Republic of",220
-Lesotho,217
-"Macedonia, North",182
-Cabo Verde,168
-Saint Vincent and the Grenadines,155
-Antigua and Barbuda,150
-Namibia,148
-Vanuatu,128
-Tonga,115
-Guam,112
-Armenia,112
-Grenada,110
-Bermuda,107
-Saint Lucia,106
-Sao Tome and Principe,105
-Cayman Islands,80
-Bosnia and Herzegovina,64
-Dominica,51
-Niger,47
-Saint Kitts and Nevis,47
-Belize,46
-Cuba,34
-Solomon Islands,30
-Greenland,26
-Cook Islands,24
-American Samoa,15
-Central African Republic,13
-Kiribati,11
-Chad,7
-"Macao, China",7
-Aruba,6
-Palau,4
-Turks and Caicos Islands,4
-Nauru,3
-British Virgin Islands,2
-Andorra,2
-Bhutan,2
-"Micronesia, Federated States of",2
-Marshall Islands,1
-United States Minor Outlying Islands,1
+United States of America,6094.814
+China,3042.838
+United Kingdom,2110.649
+Germany,1568.42
+Netherlands,1401.175
+United Arab Emirates,1170.17
+Spain,1025.085
+Italy,893.795
+Afghanistan,835.873
+Bangladesh,815.613
+Belgium,715.779
+France,454.735
+Qatar,406.216
+Saudi Arabia,403.997
+Malaysia,383.975
+Canada,363.726
+Sri Lanka,349.51
+Poland,331.272
+Australia,301.158
+Türkiye,294.443
+Thailand,252.054
+Kenya,250.264
+Portugal,244.418
+Denmark,234.687
+South Africa,223.079
+Japan,202.91
+Viet Nam,194.755
+Kazakhstan,193.666
+"Korea, Republic of",191.679
+Oman,176.511
+Russian Federation,175.721
+Indonesia,170.726
+Sweden,166.429
+Philippines,142.765
+Kuwait,122.463
+Mozambique,117.204
+Chile,115.361
+"Tanzania, United Republic of",111.517
+Egypt,105.939
+Mexico,99.83
+Brazil,99.504
+Greece,90.212
+Slovenia,88.8
+Madagascar,88.673
+Ireland,86.86
+Yemen,82.939
+Singapore,75.081
+"Hong Kong, China",72.062
+Somalia,70.095
+Asia not elsewhere specified,66.094
+Bahrain,62.079
+Ukraine,61.882
+Norway,60.686
+Djibouti,55.537
+Czech Republic,55.342
+Ghana,54.609
+New Zealand,54.004
+Colombia,52.42
+Romania,50.967
+Uzbekistan,48.937
+Argentina,44.79
+Iraq,44.42
+Côte d'Ivoire,41.383
+Bulgaria,40.191
+Nigeria,39.646
+Jordan,34.54
+Lithuania,33.086
+Finland,32.454
+Peru,31.976
+Morocco,29.076
+Cambodia,26.59
+Hungary,24.835
+Sudan,24.714
+Tunisia,24.583
+Guinea,24.071
+Slovakia,23.644
+Angola,23.433
+Senegal,23.226
+Benin,21.9
+Papua New Guinea,21.119
+Mauritius,19.476
+"Congo, Democratic Republic of the",18.535
+Algeria,17.927
+Panama,16.78
+Croatia,16.424
+Latvia,16.399
+Switzerland,15.759
+Honduras,15.233
+Austria,14.788
+Myanmar,12.73
+Zimbabwe,12.483
+Estonia,12.248
+"Libya, State of",11.711
+Cameroon,11.62
+Lebanon,11.58
+Guatemala,10.641
+Dominican Republic,9.842
+Togo,8.787
+Paraguay,8.226
+Mauritania,8.048
+Ecuador,7.502
+Gambia,7.419
+Guinea-Bissau,7.319
+Malawi,7.051
+Georgia,6.754
+Comoros,6.603
+Syrian Arab Republic,6.321
+Uruguay,6.223
+Maldives,6.133
+Cyprus,6.129
+Botswana,5.89
+Azerbaijan,5.775
+Haiti,5.646
+Albania,5.241
+El Salvador,4.884
+Montenegro,4.743
+Trinidad and Tobago,4.701
+Nepal,4.658
+Costa Rica,4.303
+Malta,3.943
+Nicaragua,3.745
+Liberia,3.632
+Turkmenistan,3.002
+"Venezuela, Bolivarian Republic of",2.929
+Kyrgyzstan,2.822
+Sierra Leone,2.703
+Uganda,2.539
+Tajikistan,2.491
+Fiji,2.336
+Timor-Leste,2.179
+Congo,2.039
+Belarus,1.854
+Guyana,1.649
+Jamaica,1.589
+Seychelles,1.513
+Serbia,1.511
+Brunei Darussalam,1.143
+Zambia,1.014
+Ethiopia,0.742
+Suriname,0.631
+Barbados,0.622
+Luxembourg,0.614
+Gabon,0.598
+Mongolia,0.544
+Rwanda,0.506
+Lao People's Democratic Republic,0.501
+Eswatini,0.486
+Iceland,0.378
+"Bolivia, Plurinational State of",0.377
+Mali,0.358
+New Caledonia,0.318
+Burkina Faso,0.304
+Bahamas,0.28
+Burundi,0.274
+Equatorial Guinea,0.258
+India,0.241
+Samoa,0.24
+French Polynesia,0.228
+"Moldova, Republic of",0.22
+Lesotho,0.217
+"Macedonia, North",0.182
+Cabo Verde,0.168
+Saint Vincent and the Grenadines,0.155
+Antigua and Barbuda,0.15
+Namibia,0.148
+Vanuatu,0.128
+Tonga,0.115
+Guam,0.112
+Armenia,0.112
+Grenada,0.11
+Bermuda,0.107
+Saint Lucia,0.106
+Sao Tome and Principe,0.105
+Cayman Islands,0.08
+Bosnia and Herzegovina,0.064
+Dominica,0.051
+Niger,0.047
+Saint Kitts and Nevis,0.047
+Belize,0.046
+Cuba,0.034
+Solomon Islands,0.03
+Greenland,0.026
+Cook Islands,0.024
+American Samoa,0.015
+Central African Republic,0.013
+Kiribati,0.011
+Chad,0.007
+"Macao, China",0.007
+Aruba,0.006
+Palau,0.004
+Turks and Caicos Islands,0.004
+Nauru,0.003
+British Virgin Islands,0.002
+Andorra,0.002
+Bhutan,0.002
+"Micronesia, Federated States of",0.002
+Marshall Islands,0.001
+United States Minor Outlying Islands,0.001
