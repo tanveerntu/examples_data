@@ -1,101 +1,101 @@
 Country,Value
-USA,6094.814
-China,3042.838
-United Kingdom,2110.649
-Germany,1568.42
-Netherlands,1401.175
-United Arab Emirates,1170.17
-Spain,1025.085
-Italy,893.795
-Afghanistan,835.873
-Bangladesh,815.613
-Belgium,715.779
-France,454.735
-Qatar,406.216
-Saudi Arabia,403.997
-Malaysia,383.975
-Canada,363.726
-Sri Lanka,349.51
-Poland,331.272
-Australia,301.158
-Turkiye,294.443
-Thailand,252.054
-Kenya,250.264
-Portugal,244.418
-Denmark,234.687
-South Africa,223.079
-Japan,202.91
-Viet Nam,194.755
-Kazakhstan,193.666
-"Korea, Republic of",191.679
-Oman,176.511
-Russian Federation,175.721
-Indonesia,170.726
-Sweden,166.429
-Philippines,142.765
-Kuwait,122.463
-Mozambique,117.204
-Chile,115.361
-Tanzania,111.517
-Egypt,105.939
-Mexico,99.83
-Brazil,99.504
-Greece,90.212
-Slovenia,88.8
-Madagascar,88.673
-Ireland,86.86
-Yemen,82.939
-Singapore,75.081
-"Hong Kong, China",72.062
-Somalia,70.095
-Asia not elsewhere specified,66.094
-Bahrain,62.079
-Ukraine,61.882
-Norway,60.686
-Djibouti,55.537
-Czech Republic,55.342
-Ghana,54.609
-New Zealand,54.004
-Colombia,52.42
-Romania,50.967
-Uzbekistan,48.937
-Argentina,44.79
-Iraq,44.42
-Cote d'Ivoire,41.383
-Bulgaria,40.191
-Nigeria,39.646
-Jordan,34.54
-Lithuania,33.086
-Finland,32.454
-Peru,31.976
-Morocco,29.076
-Cambodia,26.59
-Hungary,24.835
-Sudan,24.714
-Tunisia,24.583
-Guinea,24.071
-Slovakia,23.644
-Angola,23.433
-Senegal,23.226
-Benin,21.9
-Papua New Guinea,21.119
-Mauritius,19.476
-Congo,18.535
-Algeria,17.927
-Panama,16.78
-Croatia,16.424
-Latvia,16.399
-Switzerland,15.759
-Honduras,15.233
-Austria,14.788
-Myanmar,12.73
-Zimbabwe,12.483
-Estonia,12.248
-"Libya, State of",11.711
-Cameroon,11.62
-Lebanon,11.58
-Guatemala,10.641
-Dominican Republic,9.842
-Togo,8.787
-Paraguay,8.226
-Others,177
+USA," 6,094,814,000 "
+China," 3,042,838,000 "
+United Kingdom," 2,110,649,000 "
+Germany," 1,568,420,000 "
+Netherlands," 1,401,175,000 "
+United Arab Emirates," 1,170,170,000 "
+Spain," 1,025,085,000 "
+Italy," 893,795,000 "
+Afghanistan," 835,873,000 "
+Bangladesh," 815,613,000 "
+Belgium," 715,779,000 "
+France," 454,735,000 "
+Qatar," 406,216,000 "
+Saudi Arabia," 403,997,000 "
+Malaysia," 383,975,000 "
+Canada," 363,726,000 "
+Sri Lanka," 349,510,000 "
+Poland," 331,272,000 "
+Australia," 301,158,000 "
+Turkiye," 294,443,000 "
+Thailand," 252,054,000 "
+Kenya," 250,264,000 "
+Portugal," 244,418,000 "
+Denmark," 234,687,000 "
+South Africa," 223,079,000 "
+Japan," 202,910,000 "
+Viet Nam," 194,755,000 "
+Kazakhstan," 193,666,000 "
+"Korea, Republic of"," 191,679,000 "
+Oman," 176,511,000 "
+Russian Federation," 175,721,000 "
+Indonesia," 170,726,000 "
+Sweden," 166,429,000 "
+Philippines," 142,765,000 "
+Kuwait," 122,463,000 "
+Mozambique," 117,204,000 "
+Chile," 115,361,000 "
+Tanzania," 111,517,000 "
+Egypt," 105,939,000 "
+Mexico," 99,830,000 "
+Brazil," 99,504,000 "
+Greece," 90,212,000 "
+Slovenia," 88,800,000 "
+Madagascar," 88,673,000 "
+Ireland," 86,860,000 "
+Yemen," 82,939,000 "
+Singapore," 75,081,000 "
+"Hong Kong, China"," 72,062,000 "
+Somalia," 70,095,000 "
+Asia not elsewhere specified," 66,094,000 "
+Bahrain," 62,079,000 "
+Ukraine," 61,882,000 "
+Norway," 60,686,000 "
+Djibouti," 55,537,000 "
+Czech Republic," 55,342,000 "
+Ghana," 54,609,000 "
+New Zealand," 54,004,000 "
+Colombia," 52,420,000 "
+Romania," 50,967,000 "
+Uzbekistan," 48,937,000 "
+Argentina," 44,790,000 "
+Iraq," 44,420,000 "
+Cote d'Ivoire," 41,383,000 "
+Bulgaria," 40,191,000 "
+Nigeria," 39,646,000 "
+Jordan," 34,540,000 "
+Lithuania," 33,086,000 "
+Finland," 32,454,000 "
+Peru," 31,976,000 "
+Morocco," 29,076,000 "
+Cambodia," 26,590,000 "
+Hungary," 24,835,000 "
+Sudan," 24,714,000 "
+Tunisia," 24,583,000 "
+Guinea," 24,071,000 "
+Slovakia," 23,644,000 "
+Angola," 23,433,000 "
+Senegal," 23,226,000 "
+Benin," 21,900,000 "
+Papua New Guinea," 21,119,000 "
+Mauritius," 19,476,000 "
+Congo," 18,535,000 "
+Algeria," 17,927,000 "
+Panama," 16,780,000 "
+Croatia," 16,424,000 "
+Latvia," 16,399,000 "
+Switzerland," 15,759,000 "
+Honduras," 15,233,000 "
+Austria," 14,788,000 "
+Myanmar," 12,730,000 "
+Zimbabwe," 12,483,000 "
+Estonia," 12,248,000 "
+"Libya, State of"," 11,711,000 "
+Cameroon," 11,620,000 "
+Lebanon," 11,580,000 "
+Guatemala," 10,641,000 "
+Dominican Republic," 9,842,000 "
+Togo," 8,787,000 "
+Paraguay," 8,226,000 "
+Others," 177,000,000 "
